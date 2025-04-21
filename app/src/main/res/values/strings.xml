@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Packager</string>
+    <string name="shortcut_short_label">Reset</string>
+    <string name="shortcut_long_label">Reset Saved Package Name</string>
+</resources>
